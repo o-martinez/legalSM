@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_children">
+    <sys_ux_children action="INSERT_OR_UPDATE">
+        <description>A container with 4 slots</description>
+        <name>Container - 4 Up</name>
+        <sys_class_name>sys_ux_children</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-12 19:35:44</sys_created_on>
+        <sys_id>46c06f6c1bf89450a30165f9bc4bcbec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Container - 4 Up</sys_name>
+        <sys_package display_value="Legal Workspace" source="x_snc_legal_worksp">2d3f5be81bf89450a30165f9bc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Workspace">2d3f5be81bf89450a30165f9bc4bcbd6</sys_scope>
+        <sys_update_name>sys_ux_children_46c06f6c1bf89450a30165f9bc4bcbec</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-12 19:35:44</sys_updated_on>
+    </sys_ux_children>
+</record_update>

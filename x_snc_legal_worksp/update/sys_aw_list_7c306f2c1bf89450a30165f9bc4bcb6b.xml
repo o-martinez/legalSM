@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Support Requests">74306f2c1bf89450a30165f9bc4bcb64</category>
+        <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by,closed_at,closed_by</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>400</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-12 19:33:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7c306f2c1bf89450a30165f9bc4bcb6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Legal Workspace" source="x_snc_legal_worksp">2d3f5be81bf89450a30165f9bc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Workspace">2d3f5be81bf89450a30165f9bc4bcbd6</sys_scope>
+        <sys_update_name>sys_aw_list_7c306f2c1bf89450a30165f9bc4bcb6b</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-12 19:33:12</sys_updated_on>
+        <table>x_snc_legal_admin_support_request</table>
+        <title>All</title>
+        <workspace display_value="Legal Workspace">b4306f2c1bf89450a30165f9bc4bcb39</workspace>
+    </sys_aw_list>
+</record_update>

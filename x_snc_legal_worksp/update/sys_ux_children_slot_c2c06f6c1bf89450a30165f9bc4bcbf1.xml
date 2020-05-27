@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_children_slot">
+    <sys_ux_children_slot action="INSERT_OR_UPDATE">
+        <description/>
+        <host display_value="Container - 4 Up">46c06f6c1bf89450a30165f9bc4bcbec</host>
+        <name>third</name>
+        <sys_class_name>sys_ux_children_slot</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-12 19:35:44</sys_created_on>
+        <sys_id>c2c06f6c1bf89450a30165f9bc4bcbf1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>third</sys_name>
+        <sys_package display_value="Legal Workspace" source="x_snc_legal_worksp">2d3f5be81bf89450a30165f9bc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Workspace">2d3f5be81bf89450a30165f9bc4bcbd6</sys_scope>
+        <sys_update_name>sys_ux_children_slot_c2c06f6c1bf89450a30165f9bc4bcbf1</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-12 19:35:44</sys_updated_on>
+    </sys_ux_children_slot>
+    <sys_translated_text action="delete_multiple" query="documentkey=c2c06f6c1bf89450a30165f9bc4bcbf1"/>
+</record_update>

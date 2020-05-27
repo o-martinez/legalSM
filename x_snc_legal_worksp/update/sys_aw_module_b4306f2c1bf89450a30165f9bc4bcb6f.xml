@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Home Module Content">c5306f2c1bf89450a30165f9bc4bcb7b</content>
+        <content_attrs/>
+        <content_component display_value="sn-workspace-home">5012e92bff222300294153bd6338f159</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>home-outline</icon>
+        <id>home</id>
+        <label>Home</label>
+        <order>0</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-12 19:33:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b4306f2c1bf89450a30165f9bc4bcb6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>home</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Legal Workspace" source="x_snc_legal_worksp">2d3f5be81bf89450a30165f9bc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="Legal Workspace">2d3f5be81bf89450a30165f9bc4bcbd6</sys_scope>
+        <sys_update_name>sys_aw_module_b4306f2c1bf89450a30165f9bc4bcb6f</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-12 19:33:12</sys_updated_on>
+        <toolbar_button display_value="Home Button">4d306f2c1bf89450a30165f9bc4bcb6f</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="Legal Workspace">b4306f2c1bf89450a30165f9bc4bcb39</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=b4306f2c1bf89450a30165f9bc4bcb6f"/>
+</record_update>

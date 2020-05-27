@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element">
+    <sys_ux_page_element action="INSERT_OR_UPDATE">
+        <attrs/>
+        <children/>
+        <component display_value="now-uxf-visualization-connected">86c155a76f08aa526cabd1e73aafc330</component>
+        <is_root>false</is_root>
+        <layout/>
+        <macroponent/>
+        <macroponent_config/>
+        <name>Incident SLA Breached</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent display_value="Happening now container">c6c06f6c1bf89450a30165f9bc4bcbf4</parent>
+        <parent_slot display_value="second">8ec06f6c1bf89450a30165f9bc4bcbed</parent_slot>
+        <picker/>
+        <picker_condition/>
+        <sys_class_name>sys_ux_page_element</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-12 19:35:45</sys_created_on>
+        <sys_id>4ac0af6c1bf89450a30165f9bc4bcb1d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Incident SLA Breached</sys_name>
+        <sys_package display_value="Legal Workspace" source="x_snc_legal_worksp">2d3f5be81bf89450a30165f9bc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Workspace">2d3f5be81bf89450a30165f9bc4bcbd6</sys_scope>
+        <sys_update_name>sys_ux_page_element_4ac0af6c1bf89450a30165f9bc4bcb1d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-13 08:10:54</sys_updated_on>
+        <tree_root display_value="Legal Assistnace Overview">3dc06f6c1bf89450a30165f9bc4bcbe4</tree_root>
+    </sys_ux_page_element>
+    <sys_variable_value action="delete_multiple" query="document_key=4ac0af6c1bf89450a30165f9bc4bcb1d"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_page_element</document>
+        <document_key>4ac0af6c1bf89450a30165f9bc4bcb1d</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-05-13 08:10:54</sys_created_on>
+        <sys_id>44ad463c1bb01010a30165f9bc4bcbf8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-13 08:10:54</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">91cfa04a49c8cb71b4bdce5e3301bec7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_page_element</document>
+        <document_key>4ac0af6c1bf89450a30165f9bc4bcb1d</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-05-13 08:10:54</sys_created_on>
+        <sys_id>48ad463c1bb01010a30165f9bc4bcbf8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-13 08:10:54</sys_updated_on>
+        <value>Incident SLA Breached</value>
+        <variable display_value="">e7300333fcea8de0edcb984a3e0d6ab1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_page_element</document>
+        <document_key>4ac0af6c1bf89450a30165f9bc4bcb1d</document_key>
+        <order>600</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-05-13 08:10:54</sys_created_on>
+        <sys_id>4cad463c1bb01010a30165f9bc4bcbf8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-13 08:10:54</sys_updated_on>
+        <value/>
+        <variable display_value="">a379c62cc88905076d5818f223e239f5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_page_element</document>
+        <document_key>4ac0af6c1bf89450a30165f9bc4bcb1d</document_key>
+        <order>7</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-05-13 08:10:54</sys_created_on>
+        <sys_id>c4ad463c1bb01010a30165f9bc4bcbf8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-13 08:10:54</sys_updated_on>
+        <value>2</value>
+        <variable display_value="">9a8b61565a8811f3120e6b781ffd37b7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_page_element</document>
+        <document_key>4ac0af6c1bf89450a30165f9bc4bcb1d</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-05-13 08:10:54</sys_created_on>
+        <sys_id>c8ad463c1bb01010a30165f9bc4bcbf8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-13 08:10:54</sys_updated_on>
+        <value>54e7243f532c330083f3ddeeff7b1277</value>
+        <variable display_value="">70cfd3d9c2da841b7debeb340b58528f</variable>
+    </sys_variable_value>
+</record_update>

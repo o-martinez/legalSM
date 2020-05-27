@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_renderer">
+    <sys_aw_renderer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_renderer display_value="sn-component-kb-discussion-wrapper">e7f08ce10f132300bb57f4a1ff767e58</custom_renderer>
+        <custom_renderer_tag>sn-component-kb-discussion-wrapper</custom_renderer_tag>
+        <macroponent/>
+        <module_flag>false</module_flag>
+        <renderer_type>record</renderer_type>
+        <sys_class_name>sys_aw_renderer</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-12 19:33:14</sys_created_on>
+        <sys_id>1d306f2c1bf89450a30165f9bc4bcbcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Legal Workspace" source="x_snc_legal_worksp">2d3f5be81bf89450a30165f9bc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Workspace">2d3f5be81bf89450a30165f9bc4bcbd6</sys_scope>
+        <sys_update_name>sys_aw_renderer_1d306f2c1bf89450a30165f9bc4bcbcb</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-12 19:33:14</sys_updated_on>
+        <table>sn_communities_blog</table>
+        <type_ext/>
+        <workspace_config display_value="Legal Workspace">b4306f2c1bf89450a30165f9bc4bcb39</workspace_config>
+        <workspace_module/>
+    </sys_aw_renderer>
+</record_update>

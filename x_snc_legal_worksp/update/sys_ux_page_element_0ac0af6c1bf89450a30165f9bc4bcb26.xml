@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element">
+    <sys_ux_page_element action="INSERT_OR_UPDATE">
+        <attrs/>
+        <children display_value="Container - 1 Up">06c0af6c1bf89450a30165f9bc4bcb23</children>
+        <component display_value="now-uxf-page-container">1e5dc4af1deca4932548dc0fea3316d4</component>
+        <is_root>false</is_root>
+        <layout display_value="Single column">c6c0af6c1bf89450a30165f9bc4bcb21</layout>
+        <macroponent/>
+        <macroponent_config/>
+        <name>My work container</name>
+        <order>1</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent display_value="Legal Assistnace Overview">3dc06f6c1bf89450a30165f9bc4bcbe4</parent>
+        <parent_slot display_value="primary">4ec0af6c1bf89450a30165f9bc4bcb24</parent_slot>
+        <picker/>
+        <picker_condition/>
+        <sys_class_name>sys_ux_page_element</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-12 19:35:45</sys_created_on>
+        <sys_id>0ac0af6c1bf89450a30165f9bc4bcb26</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My work container</sys_name>
+        <sys_package display_value="Legal Workspace" source="x_snc_legal_worksp">2d3f5be81bf89450a30165f9bc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Legal Workspace">2d3f5be81bf89450a30165f9bc4bcbd6</sys_scope>
+        <sys_update_name>sys_ux_page_element_0ac0af6c1bf89450a30165f9bc4bcb26</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-13 08:10:53</sys_updated_on>
+        <tree_root display_value="Legal Assistnace Overview">3dc06f6c1bf89450a30165f9bc4bcbe4</tree_root>
+    </sys_ux_page_element>
+    <sys_variable_value action="delete_multiple" query="document_key=0ac0af6c1bf89450a30165f9bc4bcb26"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_page_element</document>
+        <document_key>0ac0af6c1bf89450a30165f9bc4bcb26</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-05-13 08:10:53</sys_created_on>
+        <sys_id>7f9d463c1bb01010a30165f9bc4bcbb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-13 08:10:53</sys_updated_on>
+        <value>visualizations</value>
+        <variable display_value="">e7785719090f31eaf658765e0bb83cd2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_ux_page_element</document>
+        <document_key>0ac0af6c1bf89450a30165f9bc4bcb26</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-05-13 08:10:53</sys_created_on>
+        <sys_id>bb9d463c1bb01010a30165f9bc4bcbb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-13 08:10:53</sys_updated_on>
+        <value>My Work</value>
+        <variable display_value="">57124729d78d5d09abdc5b736c855382</variable>
+    </sys_variable_value>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Inbox Module Content">95306f2c1bf89450a30165f9bc4bcb9c</content>
+        <content_attrs/>
+        <content_component display_value="sn-inbox">c1fbc4bb77b31300c438c277d8106134</content_component>
+        <content_tag/>
+        <detail display_value="Inbox Module Detail">1d306f2c1bf89450a30165f9bc4bcba1</detail>
+        <detail_attrs/>
+        <detail_component display_value="sn-inbox-empty">ee222d2bff222300294153bd6338f113</detail_component>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>inbox-outline</icon>
+        <id>inbox</id>
+        <label>Inbox</label>
+        <order>200</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>omar.martinez</sys_created_by>
+        <sys_created_on>2020-05-12 19:33:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>45306f2c1bf89450a30165f9bc4bcb94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inbox</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Legal Workspace" source="x_snc_legal_worksp">2d3f5be81bf89450a30165f9bc4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="Legal Workspace">2d3f5be81bf89450a30165f9bc4bcbd6</sys_scope>
+        <sys_update_name>sys_aw_module_45306f2c1bf89450a30165f9bc4bcb94</sys_update_name>
+        <sys_updated_by>omar.martinez</sys_updated_by>
+        <sys_updated_on>2020-05-12 19:33:13</sys_updated_on>
+        <toolbar_button display_value="Inbox Button">89306f2c1bf89450a30165f9bc4bcb94</toolbar_button>
+        <type>master_detail</type>
+        <workspace_config display_value="Legal Workspace">b4306f2c1bf89450a30165f9bc4bcb39</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=45306f2c1bf89450a30165f9bc4bcb94"/>
+</record_update>
